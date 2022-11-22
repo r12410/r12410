@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r12410
-- 👀 I’m interested in learning html, css, js, python, solidity
+- 👀 learning html, css, js, solidity
 - 🌱 I’m currently learning the above mentioned
-- 💞️ I’m looking to collaborate on making DAO and lottery on blockchain
+- 💞️ I’m looking to collaborate on making things on blockchain
 - 📫 you can reach me by email enricohalim@gmail.com
 
 <!---
